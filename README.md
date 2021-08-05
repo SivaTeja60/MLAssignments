@@ -1,2 +1,0 @@
-# MLAssignments
-ML Assignments
